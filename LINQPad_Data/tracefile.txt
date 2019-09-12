@@ -1,0 +1,3 @@
+myTraceSource Information: 0 : Tracing application..
+myTraceSource Critical: 0 : Critical trace
+myTraceSource Information: 1 : a, b, c
